@@ -4,6 +4,7 @@ public class TheMotivator
 	 {
 		if (score == 100)
 		{
+
 			System.out.println("You're brilliant");
 			upcomingEvents();
 		}
