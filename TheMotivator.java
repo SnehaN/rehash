@@ -20,6 +20,7 @@ public class TheMotivator
 
 	public void upcomingEvents()
 	{
+		System.out.println("-----Upcoming Events-----");
 		System.out.println("As you have scored more than 90 then you deserve a party!!!!");
 	}
 
